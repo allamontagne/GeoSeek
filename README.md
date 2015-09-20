@@ -1,8 +1,6 @@
 # GeoSeek
 Databases Project (Spring 2015)
-<<<<<<< HEAD
-=======
-Jon likes big butts. 
-I also like butts
->>>>>>> origin/master
-We all like big butts and we cannot lie.
+
+## TO DO:
+> Emails and Phone Numbers: [Jonathan Green, jogreen@ursinus.edu, 484-576-201]
+> Review Databases Functional Requirements doc for Tuesday.
