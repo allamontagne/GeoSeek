@@ -9,4 +9,11 @@ Emails and Phone Numbers:
 3. [Andy Santiago, ansantiago@ursinus.edu, 484-769-6472] 
 4. [Alexa LaMontagne, allamontagne@ursinus.edu, 530-421-8641]
 
-Update (10/15/2015) - Added presentation feedback and removed RequirementsDoc.pdf
+Update (10/19/2015) - Added the following:
+>
+* ERDiagramRevision.dia (ERDiagramRevision.png)
+* SchemaRevision.dia (SchemaRevision.png)
+* GeoSeek\ ER\ Diagram.dia (old)
+* Renamed ConceptualDesignFeedback.txt. 
+* Updated ListOfAssumptions.docx (generated plain-text for embedded list).
+>

@@ -1,0 +1,13 @@
+List of Assumptions (Last Modified 00:07 10/19/2015)
+====================================================
+1. All GeoSeek Users have Android smartphones capable with the
+minimum requirements (running Android 4.4). All Android smartphones
+used by GeoSeek Users have cameras.
+2. GeoSeek Users have smartphones that can capture Photo(s) during
+GeoSeek gameplay.
+3. Some GeoSeek Users will play anonymously (non-Guild) play. All 
+GeoSeek Users capable of anonymous play are able to joing a GeoSeek Guild.
+4. GeoSeek Users can join more than one Guild.
+5. Users can only play in one GameSession at a time.
+6. Guild vs. Guild is not supported. Guild statistics are tracked based on
+the results of GeoSeek Users that compete in a GameSession.
